@@ -1,4 +1,4 @@
-Theme for my [http://carlitoscontraptions.com](personal website) based on HTML5 Blank (see more info below).
+Theme for my [personal website](http://carlitoscontraptions.com) based on HTML5 Blank (see more info below).
 
 ## Objectives of this theme:
 * Use HTML5 + CSS3 standars as much as possible (and use Javascript where nedded)
