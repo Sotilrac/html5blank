@@ -8,7 +8,8 @@
  * Typography
  */
 
-$font-family-base: "Helvetica Neue", Helvetica, Arial, "Open Sans", sans-serif;
+$font-family-base: Roboto, "Helvetica Neue", Helvetica, Arial, "Open Sans", sans-serif;
+$font-family-heading: Metrophobic, "Helvetica Neue", Helvetica, Arial, "Open Sans", sans-serif;
 $font-size-base: 140%;
 $line-height-base: 1.5;
 
@@ -18,8 +19,9 @@ $line-height-base: 1.5;
  */
 
 $text-color: #444;
-$body-bg: #fff;
+$body-bg: #F9F9F9;
 $selection-bg: #04A4CC;
+$accent-color: #FF5722;
 
 
 /**
