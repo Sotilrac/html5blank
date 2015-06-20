@@ -1,3 +1,21 @@
+Theme for my [http://carlitoscontraptions.com](personal website) based on HTML5 Blank (see more info below).
+
+## Objectives of this theme:
+* Use HTML5 + CSS3 standars as much as possible (and use Javascript where nedded)
+* Responsive (or at least OK looking in mobile)
+* Nice display of pictures (with captions) and galleries
+* Shortcodes for Youtube
+* Dark and Orange
+* Readable typography
+* No bitmaps
+* Nice categorydisplay
+* Nice calendar display
+* Nice tags display
+* Clear About/Resume
+* Good use of screen realestate (no unnecesary whitespace)
+
+Image: Technical, friendly, bold
+
 # [HTML5 Blank](http://html5blank.com)
 
 Powerful shell for rapidly deploying your WordPress projects.
